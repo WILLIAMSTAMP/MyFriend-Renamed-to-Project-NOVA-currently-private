@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/WILLIAMSTAMP/MyFriend/raw/main/Frame%201.png" alt="MyFriend Logo" width="400">
+</p>
 # MyFriend - AI-Powered Companion for Long-Term Care Facilities
 
 MyFriend is an application suite consisting of two complementary applications: the Chatbot Application and the Nurse Hub Application. The suite aims to enhance the well-being and personalized care for residents in long-term care facilities by leveraging AI technologies and providing valuable tools for healthcare professionals.
