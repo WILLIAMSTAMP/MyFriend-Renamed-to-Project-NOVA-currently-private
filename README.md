@@ -33,3 +33,5 @@ The Nurse Hub Application, part of the MyFriend suite, is a dedicated platform d
 ### Purpose
 
 The Nurse Hub Application within the MyFriend suite serves as a vital tool for nurses and healthcare professionals in long-term care facilities. By providing a centralized platform for reviewing conversations, offering insights through conversation analysis, and generating personalized care recommendations, the application enables healthcare professionals to deliver individualized and compassionate care to residents.
+
+Overall, the MyFriend suite aims to foster improved well-being, companionship, and personalized care for residents in long-term care facilities, supporting both residents and healthcare professionals in their daily interactions and care provision.
